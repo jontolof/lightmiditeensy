@@ -1,4 +1,4 @@
-#Light Midi with Teensy and TLC5947
+# Light Midi with Teensy and TLC5947
 This is a coding project using Teensy and 2 TLC5947, 24 channel PWM Drivers. It's a 48 diod light panel ranging 4 octaves.
 
 ## About Project
